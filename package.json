@@ -1,0 +1,11 @@
+{
+  "name": "docker_app",
+  "main": "application.js",
+  "scripts": {
+    "start": "node application.js"
+  },
+  "dependencies": {
+    "http": "latest",
+    "dockerode": "latest",
+  }
+}
